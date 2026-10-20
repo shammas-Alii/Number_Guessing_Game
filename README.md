@@ -1,4 +1,4 @@
-# Syntecxhub Number Guessing Game
+#  Number Guessing Game
 
 A clean and interactive command-line **Number Guessing Game** built in Python as part of the Syntecxhub Internship Program.
 
